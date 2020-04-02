@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">💁‍♀️ Your new best friend</h4>
+<h4 align="center">💁‍♀️ Projet par Graven </h4>
 
 <p align="center">
   <a href="https://goreportcard.com/report/github.com/olivia-ai/olivia"><img src="https://goreportcard.com/badge/github.com/olivia-ai/olivia"></a>
